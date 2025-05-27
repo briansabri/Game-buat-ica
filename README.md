@@ -1,2 +1,0 @@
-# Game-buat-ica
-Dino
